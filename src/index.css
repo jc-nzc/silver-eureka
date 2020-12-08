@@ -34,3 +34,8 @@ small {
 form {
   text-align: center;
 }
+
+ /* stacking the form grid */
+.form {
+    display:grid;
+}
