@@ -31,11 +31,11 @@ small {
     text-align: center
 }
 
-form {
+/* form {
   text-align: center;
-}
+} */
 
- /* stacking the form grid */
+
 .form {
     display:grid;
 }
@@ -68,4 +68,16 @@ form {
 
 .button:hover {
     background-color: rgba(0,0,0,0.85);
+}
+
+@media (min-width:786px){
+    .form {
+        grid-template-columns: auto 1fr auto;
+        grid-gap: 1rem;
+        align-items: center;
+    }
+
+    .input {
+        margin-bottom: 0;
+    }
 }
