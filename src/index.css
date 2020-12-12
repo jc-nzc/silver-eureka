@@ -93,3 +93,8 @@ small {
     margin-bottom: 2rem;
     background-color: white;
 }
+
+.card--title {
+    margin-bottom: 0.5rem;
+    font-size: 3.2rem;
+}
