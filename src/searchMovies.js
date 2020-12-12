@@ -2,9 +2,12 @@ import React, {useState} from "react";
 
 export default function SearchMovies(){
 
+    //states -input query, movies
+    const [query, setQuery] = useState('');
+
     const searchMovies = async (e) => {
         e.preventDefault()
-        console.log("submitting");
+        // console.log("submitting");
 
         const query = "One flew over the cuckoo's nest";
 
