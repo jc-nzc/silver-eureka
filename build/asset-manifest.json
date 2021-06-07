@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/silver-eureka/static/css/main.0fb1f8ed.chunk.css",
-    "main.js": "/silver-eureka/static/js/main.a6b2f39b.chunk.js",
-    "main.js.map": "/silver-eureka/static/js/main.a6b2f39b.chunk.js.map",
+    "main.css": "/silver-eureka/static/css/main.4847dbec.chunk.css",
+    "main.js": "/silver-eureka/static/js/main.ed6c707c.chunk.js",
+    "main.js.map": "/silver-eureka/static/js/main.ed6c707c.chunk.js.map",
     "runtime-main.js": "/silver-eureka/static/js/runtime-main.a036f9dc.js",
     "runtime-main.js.map": "/silver-eureka/static/js/runtime-main.a036f9dc.js.map",
     "static/js/2.70b051c8.chunk.js": "/silver-eureka/static/js/2.70b051c8.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.5389ce2d.chunk.js": "/silver-eureka/static/js/3.5389ce2d.chunk.js",
     "static/js/3.5389ce2d.chunk.js.map": "/silver-eureka/static/js/3.5389ce2d.chunk.js.map",
     "index.html": "/silver-eureka/index.html",
-    "static/css/main.0fb1f8ed.chunk.css.map": "/silver-eureka/static/css/main.0fb1f8ed.chunk.css.map",
+    "static/css/main.4847dbec.chunk.css.map": "/silver-eureka/static/css/main.4847dbec.chunk.css.map",
     "static/js/2.70b051c8.chunk.js.LICENSE.txt": "/silver-eureka/static/js/2.70b051c8.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/silver-eureka/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a036f9dc.js",
     "static/js/2.70b051c8.chunk.js",
-    "static/css/main.0fb1f8ed.chunk.css",
-    "static/js/main.a6b2f39b.chunk.js"
+    "static/css/main.4847dbec.chunk.css",
+    "static/js/main.ed6c707c.chunk.js"
   ]
 }
